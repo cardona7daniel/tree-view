@@ -1,0 +1,30 @@
+[
+  {
+    "informacion":
+    [
+      {
+        "Frutas":
+        [
+          {"Nombre": "Fresa"},
+          {"Nombre": "Piña"},
+          {"Nombre": "Banano"},
+          {"Nombre": "Pera"}
+        ], "id": "Frutas"
+      }
+    ]
+  }
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
